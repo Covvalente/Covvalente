@@ -1,25 +1,33 @@
 # Olá, eu sou o Mateus Rodrigues! 👋
 
-Tenho 23 anos e meu sonho é atuar como **Analista de Dados**.
-
-Sou apaixonado por tecnologia, especialmente pela área de dados, e estou sempre buscando aprender mais para transformar dados em insights valiosos que ajudem a tomar decisões estratégicas.
+Tenho 23 anos e sonho em atuar como **Analista de Dados**.
 
 ---
 
-### Áreas de interesse e tecnologias que estou explorando:
+## Tecnologias que estou explorando:  
 
-- Análise de Dados  
-- Python  
-- SQL  
-- Power BI  
-- Estatística  
-- Visualização de Dados  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)  
+
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Power BI  
+- 📈 Visualização de Dados  
+- 📚 Estatística  
 
 ---
 
-Se quiser trocar ideias, compartilhar conhecimento ou colaborar em projetos, fique à vontade para me chamar! 😊
+| Tecnologia  | Nível         |  
+|-------------|---------------|  
+| Python      | Intermediário |  
+| SQL         | Básico        |  
+| Power BI    | Intermediário |  
 
 ---
+
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Covvalente&show_icons=true&theme=radical)
+
 
 [![LinkedIn](https://img.shields.io/badge/-Mateus_Analista-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-analista/)  
 [![GitHub](https://img.shields.io/badge/-Covvalente-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Covvalente)
