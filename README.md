@@ -21,5 +21,5 @@ Se quiser trocar ideias, compartilhar conhecimento ou colaborar em projetos, fiq
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-Mateus_Rodrigues-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin-aqui)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-Mateus_Analista-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-analista/)  
+[![GitHub](https://img.shields.io/badge/-Covvalente-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Covvalente)
