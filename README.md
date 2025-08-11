@@ -20,8 +20,8 @@ Tenho 23 anos e sonho em atuar como **Analista de Dados**.
 
 | Tecnologia  | Nível         |  
 |-------------|---------------|  
-| Python      | Intermediário |  
-| SQL         | Básico        |  
+| Python      | Básico        |  
+| SQL         | Intermediário |  
 | Power BI    | Intermediário |  
 
 ---
